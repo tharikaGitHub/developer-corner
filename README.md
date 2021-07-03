@@ -17,3 +17,4 @@ This Repository is created and maintained for the purpose of keeping track of th
 * [How to setup Code Formatting in my IDE?](https://tharika.medium.com/how-to-setup-code-formatting-in-my-ide-86374ec8fbd2)
 * [Execute some action during server startup in WSO2 Products](https://tharika.medium.com/execute-some-action-during-server-startup-in-wso2-products-465429cc29ed)
 * [The Git Cheat Sheet for most Common Operations](https://tharika.medium.com/the-git-cheat-sheet-for-most-common-operations-ecf720ffcf0c)
+* [How to run scenario tests in WSO2 API Manager?](https://tharika.medium.com/how-to-run-scenario-tests-in-wso2-api-manager-bcbab7f5a04f)
